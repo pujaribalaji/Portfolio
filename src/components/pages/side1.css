@@ -84,30 +84,113 @@
   background-position: center;
 }
 .s10 {
-  width: 300px;
-  height: 300px;
-  border-radius: 20px;
+  width: 320px;
+  height: 350px;
   position: absolute;
   background-color: rgba(242, 245, 249, 1);
   margin-top: 40px;
-  margin-left: 50px;
+  margin-left: 40px;
 }
 .s11 {
   display: flex;
-  flex-direction: column;
+}
+.s12 {
+  display: flex;
   gap: 10px;
   margin-top: 40px;
   margin-left: 30px;
+  flex-direction: column;
 }
+.s13 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  margin-left: 50px;
+  align-items: flex-start;
+}
+
 .im1 {
   width: 30px;
   height: 31px;
 }
-hr{
-    width: 250px;
-    height: 0px;
-    margin-left: 0px;
-    outline: none;
-    background: rgba(205, 205, 205, 0.50);
+hr {
+  width: 250px;
+  height: 0px;
+  margin-left: 0px;
+  outline: none;
+  background: rgba(205, 205, 205, 0.5);
 }
-
+.s14 {
+  color: rgba(26, 16, 3, 0.5);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 0px;
+  margin-bottom: 10px;
+}
+.s15 {
+  color: #000;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px; /* 142.857% */
+}
+.s16 {
+  color: rgba(26, 16, 3, 0.5);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 0px; /* 0% */
+  margin-top: 140px;
+  position: absolute;
+}
+.s17 {
+  color: #000;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px;
+  margin-top: 180px;
+  position: absolute;
+}
+.s18 {
+  color: rgba(26, 16, 3, 0.5);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 0px; /* 0% */
+  margin-top: 280px;
+  position: absolute;
+}
+.s19 {
+  color: #000;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px;
+  margin-top: 320px;
+  position: absolute;
+}
+.s20 {
+  width: 180px;
+  height: 45px;
+  border-radius: 20px;
+  background: linear-gradient(127deg, #ff9c1a 0%, #e80505 100%);
+  margin-left: 65px;
+  margin-top: 20px;
+  font-family: Raleway;
+  color:white;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px; /* 166.667% */
+  text-align: center;
+}

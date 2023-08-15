@@ -24,19 +24,37 @@ const Side1 = () => {
         <Link to="" className="s8"></Link>
         <Link to="https://github.com/pujaribalaji" className="s9"></Link>
       </div>
-        <div className="s10">
-            <div className="s11">
-                <img className="im1" src={img2} alt="Img2"></img>
-                <hr></hr>
-                <img className="im1" src={img3} alt="Img2"></img>
-                <hr></hr>
-                <img className="im1" src={img4} alt="Img2"></img>
-                <hr></hr>
+      <div className="s10">
+        <div className="s11">
+          <div className="s12">
+            <img className="im1" src={img2} alt="Img2"></img>
+            <hr></hr>
+            <img className="im1" src={img3} alt="Img2"></img>
+            <hr></hr>
+            <img className="im1" src={img4} alt="Img2"></img>
+            <hr></hr>
+            <div className="s13">
+              <div className="s14">Phone</div>
+              <div className="s15">+91 9381268931</div>
             </div>
-            <div>
-
+            <div className="s13">
+              <div className="s16">Email</div>
+              <div className="s17">pujaribalaji152@gmail.com</div>
             </div>
+            <div className="s13">
+                <div className="s18">
+                    Location
+                </div>
+                <div className="s19">
+                    Anantapur,AndhraPradesh
+                </div>
+            </div>
+          </div>
         </div>
+        <div className="s20">
+            Download Resume
+        </div>
+      </div>
     </div>
   );
 };
