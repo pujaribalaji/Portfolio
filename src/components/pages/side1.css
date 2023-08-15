@@ -1,0 +1,113 @@
+.s1 {
+  margin-top: 80px;
+  margin-left: 30px;
+  width: 400px;
+  height: 700px;
+  border-radius: 20px;
+  background: white;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+}
+.s2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  margin-top: -80px;
+  margin-left: 100px;
+  position: absolute;
+  background-color: aqua;
+}
+.s3 {
+  color: #0b0909;
+  font-family: Raleway;
+  font-size: 28.42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35.525px;
+  background-color: white;
+  text-align: center;
+  margin-top: 210px;
+}
+.s4 {
+  color: rgba(11, 9, 9, 0.5);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px; /* 250% */
+  text-align: center;
+  background-color: white;
+}
+.s5 {
+  display: flex;
+  background-color: white;
+  justify-content: space-evenly;
+  padding-top: 220px;
+}
+.s6 {
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
+  border: none;
+  background-color: #f2f7fc;
+  background-image: url("../asserts/fb.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s7 {
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
+  border: none;
+  background-color: #f2f7fc;
+  background-image: url("../asserts/linkdin.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s8 {
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
+  border: none;
+  background-color: #f2f7fc;
+  background-image: url("../asserts/twitter.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s9 {
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
+  border: none;
+  background-color: #f2f7fc;
+  background-image: url("../asserts/github.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s10 {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  position: absolute;
+  background-color: rgba(242, 245, 249, 1);
+  margin-top: 40px;
+  margin-left: 50px;
+}
+.s11 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 40px;
+  margin-left: 30px;
+}
+.im1 {
+  width: 30px;
+  height: 31px;
+}
+hr{
+    width: 250px;
+    height: 0px;
+    margin-left: 0px;
+    outline: none;
+    background: rgba(205, 205, 205, 0.50);
+}
+
